@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/ShaheenStore/_next/static/chunks/4fd93823156e59e8.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"Zvii-MIzjrM3wdk-eXOrt","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 px-6 py-24 dark:bg-black","children":[["$","h1",null,{"className":"mb-12 text-center text-3xl font-semibold text-black dark:text-white","children":["Category"," Products"]}],["$","div",null,{"className":"mx-auto grid max-w-5xl grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3","children":[]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"c5yYnN_SEBM3N2hvUqt2P","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 px-6 py-24 dark:bg-black","children":[["$","h1",null,{"className":"mb-12 text-center text-3xl font-semibold text-black dark:text-white","children":["Category"," Products"]}],["$","div",null,{"className":"mx-auto grid max-w-5xl grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3","children":[]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
