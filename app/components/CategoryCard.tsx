@@ -16,6 +16,11 @@ export default function CategoryCard({
   description,
   itemCount,
 }: CategoryCardProps) {
+  const imageSrc =
+    process.env.NODE_ENV === "production" && image.startsWith("/")
+      ? `/ShaheenStore${image}`
+      : image;
+
   return (
     <Link
       href={href}
@@ -23,7 +28,7 @@ export default function CategoryCard({
     >
       <div className="aspect-square w-full overflow-hidden">
         <Image
-          src={image}
+          src={imageSrc}
           alt={title}
           width={640}
           height={640}

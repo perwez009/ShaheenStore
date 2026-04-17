@@ -291,9 +291,6 @@ export default function Home() {
         <div className="mx-auto grid max-w-6xl gap-8 px-6 py-12 md:grid-cols-4">
           <div>
             <p className="text-lg font-bold text-slate-900">ShaheenStore</p>
-            <p className="mt-3 text-sm text-slate-600">
-              Campus-first commercial merchandise template with modern ecommerce sections.
-            </p>
           </div>
           <div>
             <p className="text-sm font-semibold uppercase tracking-wide text-slate-900">Shop</p>

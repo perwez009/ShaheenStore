@@ -18,12 +18,16 @@ export default function ProductCard({ product }: ProductCardProps) {
     colors,
     tag,
   } = product;
+  const imageSrc =
+    process.env.NODE_ENV === "production" && image.startsWith("/")
+      ? `/ShaheenStore${image}`
+      : image;
 
   return (
     <div className="overflow-hidden rounded-3xl border border-white/30 bg-white/80 shadow-lg shadow-slate-200/60 backdrop-blur transition hover:-translate-y-1 hover:shadow-xl">
       <div className="aspect-square w-full overflow-hidden">
         <Image
-          src={image}
+          src={imageSrc}
           alt={name}
           width={640}
           height={640}
