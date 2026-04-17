@@ -25,6 +25,11 @@ const testimonials = [
       "The quality is premium and delivery was super quick. Perfect for our college fest team.",
   },
   {
+    name: "Prashansa Tripathi",
+    quote:
+      "Very disappointed. My order arrived much later than promised, and I got no clear update from support during the delay.",
+  },
+  {
     name: "Rahul S.",
     quote:
       "Loved the hoodie fit and the packaging. ShaheenStore feels like a real brand, not generic merch.",
