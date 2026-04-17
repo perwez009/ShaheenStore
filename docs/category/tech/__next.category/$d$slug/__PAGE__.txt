@@ -1,5 +1,6 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/4fd93823156e59e8.js"],"OutletBoundary"]
-3:"$Sreact.suspense"
-0:{"buildId":"Q46CSPGPOER7hV2oZbvMH","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 px-6 py-24 dark:bg-black","children":[["$","h1",null,{"className":"mb-12 text-center text-3xl font-semibold text-black dark:text-white","children":["Category"," Products"]}],["$","div",null,{"className":"mx-auto grid max-w-5xl grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3","children":[]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
-4:null
+3:I[97367,["/ShaheenStore/_next/static/chunks/ff1a16fafef87110.js","/ShaheenStore/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"kpeqpioRv-8ImkZcRVyzz","rsc":["$","$1","c",{"children":["$L2",[["$","script","script-0",{"src":"/ShaheenStore/_next/static/chunks/74cda4e42985224e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
+2:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
