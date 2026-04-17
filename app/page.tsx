@@ -27,7 +27,7 @@ const testimonials = [
   {
     name: "Prashansa Tripathi",
     quote:
-      "Very disappointed. My order arrived much later than promised, and I got no clear update from support during the delay.",
+      "Worst shopping experience so far. My order was severely delayed, support was unresponsive, and there was no proper delivery update for days.",
   },
   {
     name: "Rahul S.",
