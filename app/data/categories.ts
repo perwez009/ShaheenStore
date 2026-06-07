@@ -1,5 +1,12 @@
 export const categories = [
   {
+    id: "sponsored",
+    title: "Free & Sponsored",
+    slug: "sponsored",
+    image: "/images/categories/Clothing.png",
+    description: "Premium tees free or at token price — powered by brand partners.",
+  },
+  {
     id: "clothing",
     title: "Clothing",
     slug: "clothing",
